@@ -2,7 +2,7 @@
 
 # Primera Entrega
 
-El objetivo del proyecto es predecir si las personas recibieron las vacunas contra la influenza H1N1 y la influenza estacional utilizando la información que compartieron sobre sus antecedentes, opiniones y comportamientos de salud.
+El objetivo del proyecto es diseñar un modelo que permita predecir la probabilidad de que una persona reciba las vacunas contra la influenza H1N1 y la gripe estacional.
 
 ###### Contexto del negocio
 
