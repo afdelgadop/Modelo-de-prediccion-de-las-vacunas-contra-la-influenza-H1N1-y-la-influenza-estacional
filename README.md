@@ -1,16 +1,20 @@
-# Algoritmo clasificacion de texto para analisis de PQRS en el Fondo Nacional del Ahorro
+# Predicción de las vacunas contra la influenza H1N1 y la influenza estacional
 
 # Primera Entrega
 
-El objetivo del proyecto es automatizar procesos manuales y disminuir los tiempos de respuesta de PQRS a través de clasificación de texto y análisis de datos.
+El objetivo del proyecto es predecir si las personas recibieron las vacunas contra la influenza H1N1 y la influenza estacional utilizando la información que compartieron sobre sus antecedentes, opiniones y comportamientos de salud.
 
 ###### Contexto del negocio
 
-El Fondo Nacional del Ahorro S.A cuenta con diferentes canales de atención para recibir PQRS, en especial un correo donde aproximadamente llegan entre 5000 a 6000 solicitudes mensuales. Además, existe un equipo el cual realiza la clasificación de las solicitudes en sus diferentes tipologías de forma manual. Por lo tanto, se requiere automatizar esta clasificación a través de un modelo de Machine Learning.
+Las vacunas proporcionan inmunización a las personas, y una inmunización suficiente en una comunidad puede reducir aún más la propagación de enfermedades a través de la "inmunidad colectiva".
 
-Este problema requiere de modelos de procesamiento del lenguaje natural, análisis de datos y conocimiento de negocio.
+En los últimos años, se han presentado a nivel mundial una serie de enfermedades respiratorias importantes. A partir de la primavera de 2009, una pandemia causada por el virus de la gripe H1N1, coloquialmente llamada "gripe porcina", se extendió por todo el mundo. Los investigadores estiman que en el primer año, fue responsable de entre 151.000 y 575.000 muertes en todo el mundo.
 
-A partir de la clasificación de las solicitudes y de su volumen por tipología, se puede analizar y generar insights, que ayuden entender e identificar las áreas/procesos que se deben mejorar.
+En octubre de 2009 se puso a disposición del público una vacuna contra el virus de la gripe H1N1. A finales del 2009 y principios del 2010, los Estados Unidos llevaron a cabo la Encuesta Nacional sobre la Influenza H1N1 2009, esta encuesta telefónica preguntó a los encuestados si habían recibido las vacunas contra la gripe H1N1 y la gripe estacional, junto con preguntas sobre ellos mismos.
+
+Estas preguntas adicionales abarcaron sus antecedentes sociales, económicos y demográficos, opiniones sobre los riesgos de enfermedad y la efectividad de la vacuna, y comportamientos para mitigar la transmisión. 
+
+Una mejor comprensión de cómo estas características se asocian con los patrones de vacunación personal puede proporcionar orientación para futuros esfuerzos de salud pública.
 
 
 **Tabla de Contenido**
